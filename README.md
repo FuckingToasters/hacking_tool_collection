@@ -4,7 +4,7 @@
 -----------------------------------
 - Run main.py (you need to have python installed. This Hackingtool should work on all platforms that support python (Windows, Linux, Applel))
 - All required modules will be automatically installed so there is no need to install them manually like you needed to do in the older versions
-- Let the file run for a bit. Turning the Numbers in `for _ in range(1000 * 3` higher will take longer but it also is able to hack more stuff (option 1)
+- Let the file run for a bit. Turning the Numbers in Line 41 (`for _ in range(1000 * 3):`) higher will take longer but it also is able to hack more stuff (option 1)
 
 ### How to run without the need of downloading any files:
 -----------------------------------

@@ -8,6 +8,7 @@
  ```
 
 # EDUCATIONAL ONLY!
+# THE USE IS ILLEGAL YOU SHOULD ONLY HACK THE GOVERMENT YOU OWN :)
 
 ### HOW TO INSTALL
 -----------------------------------
